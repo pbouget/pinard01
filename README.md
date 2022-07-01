@@ -1,4 +1,4 @@
-# 1 - ENTITY VIN - PERSISTENCE (**Pinard01**)
+# 1 - ENTITY VIN (corrigé) - Entity simple depuis JPA/Hibernate - PERSISTENCE (**Pinard01**)
 
 ![pinard01](images/pinard01.png)
 
