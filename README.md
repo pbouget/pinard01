@@ -284,7 +284,7 @@ ALTER TABLE `vin`
   ADD PRIMARY KEY (`CODEPRODUIT`);
 ```
 
-- Appelez la méthode **home()** dans votre navigateur pour initialiser les clvins en base de données en saisissant l'url ci-dessous dans votre navigateur :
+- Appelez la méthode **home()** dans votre navigateur pour initialiser les vins en base de données en saisissant l'url ci-dessous dans votre navigateur :
   
 [http://localhost:8080/accueil](http://localhost:8080/accueil)
 
